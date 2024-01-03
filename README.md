@@ -1,1 +1,1 @@
-this is a small project from TOP
+Small project from TOP
